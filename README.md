@@ -1,9 +1,11 @@
 *👋 Hello* 
 - :canada: Toronto, Canada.
 - :heart_eyes: web development, cloud
+<!--- 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
+--->
 - :link: My portfolio [website](https://krot.app)
 
 <!---
