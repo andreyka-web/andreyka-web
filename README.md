@@ -1,6 +1,4 @@
-# Welcome to my GitHub
-
-👋 Hi, I’m Andrii 
+## 👋 Hi, I’m Andrii 
 - :canada: Toronto, Canada.
 - :heart_eyes: web development, cloud
 - 👀 I’m interested in 
