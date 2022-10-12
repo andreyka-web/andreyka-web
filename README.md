@@ -1,4 +1,4 @@
-*👋 Hello* 
+**👋 Hello** 
 - :canada: Toronto, Canada.
 - :heart_eyes: web development, cloud
 - :link: My portfolio [website](https://krot.app)
